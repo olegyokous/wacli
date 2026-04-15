@@ -57,4 +57,5 @@
 <!-- Personal fork notes:
   - Using store path ~/Documents/wacli instead of the default ~/.wacli
   - Tracking upstream steipete/wacli; merge periodically
+  - Default message list limit bumped from 20 to 50 for my workflow
 -->
