@@ -59,4 +59,5 @@
   - Tracking upstream steipete/wacli; merge periodically
   - Default message list limit bumped from 20 to 50 for my workflow
   - Default search result limit bumped from 20 to 100 to surface older matches
+  - Default history backfill request count bumped from 10 to 25 to pull more context on first run
 -->
