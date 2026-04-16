@@ -62,5 +62,5 @@
   - Default history backfill request count bumped from 10 to 25 to pull more context on first run
   - Default chat list limit bumped from 20 to 50 to see more conversations at a glance
   - Default context window (messages before/after) bumped from 5 to 10 for better conversation context
-  - Default sync idle-exit timeout bumped from 30s to 60s to avoid premature disconnects on slow connections
+  - Default sync idle-exit timeout bumped from 30s to 60s to avoid premature disconnects on slow networks
 -->
