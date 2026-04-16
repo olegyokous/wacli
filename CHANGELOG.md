@@ -61,5 +61,6 @@
   - Default search result limit bumped from 20 to 100 to surface older matches
   - Default history backfill request count bumped from 10 to 25 to pull more context on first run
   - Default chat list limit bumped from 20 to 50 to see more conversations at a glance
-  - Default context window (messages before/after) bumped from 5 to 10 for better conversation view
+  - Default context window (messages before/after) bumped from 5 to 10 for better reading context
+  - Default sync idle-exit timeout bumped from 30s to 60s to avoid premature disconnects on slow networks
 -->
